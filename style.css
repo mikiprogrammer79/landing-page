@@ -127,5 +127,39 @@ header {
 
 .call-to-action {
     display: flex;
+    align-items: center;
+    background-color: #3882f6;
+    color:#f9faf8;
+    padding: 50px 100px;
+    margin: 100px 200px;
+    border-radius: 10px;
+    gap: 50px;
+}
 
+#action {
+    font-size: 24px;
+    font-weight: bold;
+
+
+}
+
+#subtext {
+    font-size: 18px;
+}
+
+.sign-up {
+    color: #e5e7eb;
+    padding:10px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Roboto;
+    background-color: #3882f6;
+    border-color: #f9faf8;
+}
+
+footer{
+    background-color:#1f2937;
+    text-align: center;
+    color: #e5e7eb;
 }
