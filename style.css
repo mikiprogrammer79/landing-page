@@ -70,4 +70,38 @@ header {
     margin-top: 15px;
     min-height: 100px;
     min-width: 100px;
+    
+}
+
+.info-img {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+
+}
+
+.image {
+    max-width: 150px;
+    text-align: center;
+}
+
+.info-img img {
+    border: solid 3px blue;
+    min-width: 150px;
+    min-height: 150px;
+    border-radius: 10px;
+}
+
+.subtext {
+    margin-top: 5px;
+    font-weight: lighter;
+    color: grey;
+}
+
+.middle-text {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+
 }
