@@ -54,7 +54,7 @@ header {
 
 .text-button .sign-up {
     margin-left: 100px;
-    background-color: #3886f6;
+    background-color: #3882f6;
     color: #e5e7eb;
     padding:10px 30px;
     border-radius: 10px;
@@ -123,4 +123,9 @@ header {
 .testimonial p {
     margin-left: 230px;
     margin-right: 230px;
+}
+
+.call-to-action {
+    display: flex;
+
 }
